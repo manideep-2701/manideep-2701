@@ -21,6 +21,6 @@ scalable, production-grade web applications across Banking and Telecom domains.
 - **Techlogyx** — Enterprise Angular web application
 
 ## Let's Connect
--  Portfolio: *coming soon*
+-  Portfolio: manideep-portfolio-nine.vercel.app
 -  manideep.reddy3@gmail.com
 -  [LinkedIn](https://www.linkedin.com/in/manideep-reddy-0a493840/)
